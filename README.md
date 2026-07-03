@@ -1,7 +1,9 @@
 # 👋 Oiii, eu sou o Henrique Rodrigues
 
 💻 Desenvolvedor Full Stack em formação  
+
 🚀 Criando SaaS, aplicativos mobile e Sites 
+
 🎯 Focado em React Native, Java, Node.js, Firebase e IA
 
 ## 🚀 Tecnologias
