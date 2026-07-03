@@ -4,11 +4,6 @@
 🚀 Criando SaaS, aplicativos mobile e Sites 
 🎯 Focado em React Native, Java, Node.js, Firebase e IA
 
-<div align="center">
-  <img height="180em" src="LINK_DO_GIF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique09866&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ## 🚀 Tecnologias
 
 <div align="center">
