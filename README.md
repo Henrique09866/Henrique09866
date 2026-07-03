@@ -1,15 +1,12 @@
 # 👋 Oiii, eu sou o Henrique Rodrigues
 
 💻 Desenvolvedor Full Stack em formação  
-🚀 Criando SaaS, aplicativos mobile e produtos digitais  
-📱 Atualmente desenvolvendo o **SupreFit**  
-🎯 Focado em React Native, Node.js, Firebase e IA
+🚀 Criando SaaS, aplicativos mobile e Sites 
+🎯 Focado em React Native, Java, Node.js, Firebase e IA
 
 <div align="center">
-  <a href="https://github.com/Henrique09866">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique09866&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique09866&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img height="180em" src="LINK_DO_GIF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique09866&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🚀 Tecnologias
@@ -51,11 +48,3 @@
 </div>
 
 ---
-
-## 🐍 Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrique09866/Henrique09866/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrique09866/Henrique09866/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Henrique09866/Henrique09866/output/github-contribution-grid-snake.svg">
-</picture>
